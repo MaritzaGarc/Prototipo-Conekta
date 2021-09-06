@@ -1,0 +1,21 @@
+#payments{
+    width: 80%;
+    height: 300PX;
+    display: flex;
+    justify-content: center;  
+}
+
+.item {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    margin: 30px;
+    box-sizing: border-box;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+  }
+
+  p{
+    text-align: center; 
+  }
