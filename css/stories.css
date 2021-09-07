@@ -1,0 +1,21 @@
+#stories{
+    width: 90%;
+    height: 300PX;
+    display: flex;
+    justify-content: center;  
+}
+
+.itemStories{
+    width: 300px;
+    height: 180px;
+    padding: 10px;
+    margin: 30px;
+    box-sizing: border-box;
+    background: #f2f2f2;
+    border-radius: 10px;
+}
+
+#stories a{
+    font-size: 12px;
+    text-decoration: none;
+}

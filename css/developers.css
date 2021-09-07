@@ -1,22 +1,24 @@
 #developers{
     width: 90%;
     display: flex;
-    justify-content: center;  
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
 }
 
-.item {
-    width: 300px;
-    height: 100px;
-    padding: 20px;
-    margin: 30px;
-    box-sizing: border-box;
+.itemDevelopers {
+    width: 400px;
   }
 
-  a {
+  #developers a {
       text-decoration: none;
       color:#00a79e;
   }
 
   h2{
       text-align: center;
+  }
+
+#developers p{
+    text-align: center; 
   }

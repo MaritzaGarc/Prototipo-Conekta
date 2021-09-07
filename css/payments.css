@@ -1,12 +1,12 @@
 #payments{
-    width: 80%;
+    width: 90%;
     height: 300PX;
     display: flex;
     justify-content: center;  
 }
 
 .item {
-    width: 200px;
+    width: 300px;
     height: 100px;
     padding: 20px;
     margin: 30px;
@@ -16,6 +16,6 @@
     flex-direction: column;
   }
 
-  p{
+  #payments p{
     text-align: center; 
   }
